@@ -1,0 +1,1 @@
+python main.py --dataset=goodbooks --maxlen=200 --dropout_rate=0.2 --device=cuda --num_epochs=60 --batch_size=512 --num_heads=4 --num_blocks=2 --hidden_units=200
